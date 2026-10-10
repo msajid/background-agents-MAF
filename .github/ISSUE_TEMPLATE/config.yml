@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Microsoft Agent Framework
+    url: https://github.com/microsoft/agent-framework
+    about: Visit the upstream framework repository for product-specific support
